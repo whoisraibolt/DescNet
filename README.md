@@ -6,9 +6,11 @@ Descriptor Convolutional Neural Network
 
 src:
 <br>
-|   config.json `.json file with all user configurations accessed by training.ipynb file` <br>
+|   config.zip `.json file with all user configurations accessed by training.ipynb file` <br>
 |   inference.ipynb `Script to produce some inferences` <br>
 |   training.ipynb `Main script to build and training models` <br>
+|   learning_rate_range_test.ipynb `Script to test Learning Rate Range` <br>
+|   lr_schedulers.zip `Learning Rate Schedulears` <br>
 |   <br>
 +---Datasets `Folder to stores all datasets used in this project` <br>
 |   <br>
@@ -18,7 +20,7 @@ src:
 |   <br>
 +---Pretrained `Folder to stores checkpoints from models build in this project` <br>
 |   <br>
-\---utilities `Utility Library` <br>
+\---utilities.zip `Utility Library` <br>
     | <br>
     +---dataset  `Module to manipulate datasets` <br>
     | <br>
