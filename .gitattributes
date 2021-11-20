@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 *.npy filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
+=======
+*.npy filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+>>>>>>> ac58ec968930d64147553534794f63ccc0acfe06
